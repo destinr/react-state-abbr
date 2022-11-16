@@ -3,7 +3,7 @@
 Let's continue experimenting with `state`, `props`, `inputs`, and transforming arrays.
 
 ## Release 0
-- Scaffold the app using `create-react-app`
+- Scaffold the app using `npm create vite`
 
 ## Release 1
 - Move `statedata` directory in the root of this repo into your `./src` directory (code outside of the `./src` directory isn't compiled, so you'll get errors if you try to import this file from it's default location).
